@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Minecraft Ten';
+    src: url('MinecraftTen.eot');
+    src: url('MinecraftTen.eot?#iefix') format('embedded-opentype'),
+        url('MinecraftTen.woff2') format('woff2'),
+        url('MinecraftTen.woff') format('woff'),
+        url('MinecraftTen.ttf') format('truetype'),
+        url('MinecraftTen.svg#MinecraftTen') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MinecraftCHMC';
+    src: url('MinecraftCHMC.eot');
+    src: url('MinecraftCHMC.eot?#iefix') format('embedded-opentype'),
+        url('MinecraftCHMC.woff2') format('woff2'),
+        url('MinecraftCHMC.woff') format('woff'),
+        url('MinecraftCHMC.ttf') format('truetype'),
+        url('MinecraftCHMC.svg#MinecraftCHMC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
